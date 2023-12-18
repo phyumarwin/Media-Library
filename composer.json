@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "require": {
+        "kriswallsmith/buzz": "^0.9.0"
+    }
+}
